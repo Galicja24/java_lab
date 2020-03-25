@@ -47,14 +47,6 @@ public class kalkulator {
 		if (znak.contentEquals(pierwiastek)) {
 			double result = Math.sqrt(zmienna111);
 			System.out.println(result);
-			System.out.println("cokolwiek");
-		}
-
-		if (znak.contentEquals(pierwiastek)) {
-			System.out.println("xx");
-		}
-		if (znak.contentEquals(pierwiastek)) {
-			System.out.println("xx");
 		}
 	}
 
