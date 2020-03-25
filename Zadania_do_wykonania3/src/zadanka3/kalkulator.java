@@ -53,7 +53,9 @@ public class kalkulator {
 		if (znak.contentEquals(pierwiastek)) {
 			System.out.println("xx");
 		}
-
+		if (znak.contentEquals(pierwiastek)) {
+			System.out.println("xx");
+		}
 	}
 
 }
