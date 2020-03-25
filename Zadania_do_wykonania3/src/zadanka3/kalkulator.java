@@ -48,9 +48,8 @@ public class kalkulator {
 			double result = Math.sqrt(zmienna111);
 			System.out.println(result);
 		}
-		{
-			
-		}
+
+		
 
 	}
 
