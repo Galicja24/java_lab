@@ -50,7 +50,9 @@ public class kalkulator {
 			System.out.println("cokolwiek");
 		}
 
-		
+		if (znak.contentEquals(pierwiastek)) {
+			System.out.println("xx");
+		}
 
 	}
 
